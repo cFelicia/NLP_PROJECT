@@ -55,25 +55,11 @@ the model is trained on the IMDB dataset  from Kaggle and deployed using Streaml
 - **Training**: Trained on IMDB movie reviews to predict positive or negative sentiment.
 - **Evaluation**: Model tested for accuracy, ensuring balanced performance across positive and negative samples.
 
----
 
-## 🔮 Future Enhancements
-- Fine-tuning the RNN for improved accuracy.
-- Supporting more granular emotional analysis.
-- Adding feedback mechanisms for continuous improvement.
 
----
 
-## 🙏 Acknowledgments
 
-- **IMDB** for the dataset.
-- **NLTK and Word2Vec** for text processing and embedding.
-- **Streamlit** for enabling rapid deployment of the app.
 
----
 
-Feel free to contribute by opening issues or submitting pull requests. Enjoy using the sentiment analysis tool!
 
---- 
 
-This `README.md` is organized for clarity and covers all the major aspects of your project, making it easy for others to understand and use. Let me know if you need further adjustments!

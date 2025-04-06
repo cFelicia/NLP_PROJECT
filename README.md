@@ -9,7 +9,7 @@ the model is trained on the IMDB dataset  from Kaggle and deployed using Streaml
 - **`ref/`**: Stores the trained RNN model and vectorizer files (compressed for GitHub compatibility).
 - **`app.py`**: Streamlit app that enables users to input a movie review and receive sentiment predictions.
 - **`model.py`**: Script for building, training, and evaluating the RNN model.
--
+
 ---
 
 ## 🚀 Features
@@ -20,24 +20,7 @@ the model is trained on the IMDB dataset  from Kaggle and deployed using Streaml
 
 ---
 
-## 🛠️ Installation
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/NLP_PROJECT.git
-    cd NLP_PROJECT
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Unzip dataset and model files (if compressed)**:
-   - Unzip `IMDB_Dataset.zip` in `data/`
-   - Unzip model and vectorizer files in `ref/`
-
----
 
 ## 🏃 Usage
 
